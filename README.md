@@ -1,3 +1,3 @@
 # 🐍 Snake
-Snake in JavaScript
-/!\ page in developement
+Snake in JavaScript<br>
+/!\ Coming soon

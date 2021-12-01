@@ -1,2 +1,2 @@
-# Web_Snake
+# 🐍 Snake
 Snake in JavaScript
